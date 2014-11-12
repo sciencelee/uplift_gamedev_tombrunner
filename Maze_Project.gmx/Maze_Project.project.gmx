@@ -20,7 +20,6 @@
     <sprite>sprites\sprite_right</sprite>
     <sprite>sprites\sprite_wall</sprite>
     <sprite>sprites\sprite_scroll</sprite>
-    <sprite>sprites\sprite_Ex_title</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
@@ -37,7 +36,6 @@
     <object>objects\object_Mummy1</object>
     <object>objects\object_mummy2</object>
     <object>objects\object_light</object>
-    <object>objects\object_Ex_title</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_title</room>
@@ -46,7 +44,7 @@
     <room>rooms\room4</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41955.9393127546</constant>
+    <constant name="GM_build_date">41955.9901017824</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
