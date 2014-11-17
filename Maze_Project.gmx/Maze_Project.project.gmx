@@ -19,14 +19,16 @@
     <sprite>sprites\sprite_left</sprite>
     <sprite>sprites\sprite_right</sprite>
     <sprite>sprites\sprite_wall</sprite>
+    <sprite>sprites\sprite_wall2</sprite>
     <sprite>sprites\sprite_scroll</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
   </backgrounds>
-  <paths name="paths">
-    <path>paths\path0</path>
-  </paths>
+  <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
   <objects name="objects">
     <object>objects\object_title</object>
     <object>objects\object_start</object>
@@ -36,6 +38,9 @@
     <object>objects\object_Mummy1</object>
     <object>objects\object_mummy2</object>
     <object>objects\object_light</object>
+    <object>objects\scroll</object>
+    <object>objects\object_Score</object>
+    <object>objects\object_wall2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_title</room>
@@ -44,7 +49,7 @@
     <room>rooms\room4</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41955.9901017824</constant>
+    <constant name="GM_build_date">41960.9766623727</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>

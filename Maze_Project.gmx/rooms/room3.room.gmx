@@ -446,6 +446,7 @@
     <instance objName="object_walll" x="768" y="288" name="inst_CADCDE0B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_walll" x="800" y="256" name="inst_41E6D65B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_walll" x="960" y="736" name="inst_9706AA9B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_explorer" x="32" y="32" name="inst_10FA7806" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
