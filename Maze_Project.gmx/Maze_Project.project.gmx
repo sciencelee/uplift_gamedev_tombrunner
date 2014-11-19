@@ -21,6 +21,8 @@
     <sprite>sprites\sprite_wall</sprite>
     <sprite>sprites\sprite_wall2</sprite>
     <sprite>sprites\sprite_scroll</sprite>
+    <sprite>sprites\sprite15</sprite>
+    <sprite>sprites\sprite16</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
@@ -47,9 +49,10 @@
     <room>rooms\room2</room>
     <room>rooms\room3</room>
     <room>rooms\room4</room>
+    <room>rooms\room5</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41960.9766623727</constant>
+    <constant name="GM_build_date">41962.9071175232</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
