@@ -400,6 +400,7 @@
     <instance objName="object_explorer" x="32" y="32" name="inst_635F6D4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall2" x="160" y="672" name="inst_D5BD6424" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_mummy2" x="192" y="672" name="inst_D1BB7062" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_Score" x="96" y="704" name="inst_ADB301AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
