@@ -8,6 +8,7 @@
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <bbox_left>3</bbox_left>
   <bbox_right>26</bbox_right>
   <bbox_top>2</bbox_top>
@@ -18,6 +19,12 @@
   <bbox_top>4</bbox_top>
   <bbox_bottom>24</bbox_bottom>
 >>>>>>> origin/master
+=======
+  <bbox_left>1</bbox_left>
+  <bbox_right>29</bbox_right>
+  <bbox_top>0</bbox_top>
+  <bbox_bottom>29</bbox_bottom>
+>>>>>>> parent of 886a4b0... Maze Game Update 2.5
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
