@@ -461,7 +461,7 @@
     <instance objName="object_walll" x="720" y="420" name="inst_14DDDB92" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_walll" x="720" y="450" name="inst_D890DB8B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_walll" x="480" y="390" name="inst_F00195B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object_Score" x="30" y="720" name="inst_A0B2FD9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_Scrolls" x="30" y="720" name="inst_A0B2FD9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

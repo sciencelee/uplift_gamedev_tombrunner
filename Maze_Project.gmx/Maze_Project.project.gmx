@@ -14,20 +14,21 @@
     <sprite>sprites\sprite_mummy_right</sprite>
     <sprite>sprites\sprite_mummy_left</sprite>
     <sprite>sprites\sprite_light</sprite>
+    <sprite>sprites\sprite_Scrolls_light</sprite>
     <sprite>sprites\sprite_left</sprite>
     <sprite>sprites\sprite_up</sprite>
     <sprite>sprites\sprite_right</sprite>
     <sprite>sprites\sprite_down</sprite>
     <sprite>sprites\sprite_wall</sprite>
+    <sprite>sprites\sprite_door</sprite>
     <sprite>sprites\sprite_wall2</sprite>
     <sprite>sprites\sprite_scroll</sprite>
-    <sprite>sprites\sprite_gun</sprite>
-    <sprite>sprites\sprite16</sprite>
-    <sprite>sprites\sprite17</sprite>
+    <sprite>sprites\sprite_sword</sprite>
+    <sprite>sprites\sprite_music</sprite>
     <sprite>sprites\sprite_piston</sprite>
     <sprite>sprites\sprite_arrow</sprite>
     <sprite>sprites\sprite_scorpion</sprite>
-    <sprite>sprites\sprite_bullet</sprite>
+    <sprite>sprites\sprite_key</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
@@ -47,21 +48,22 @@
     <object>objects\object_light</object>
     <object>objects\object_music</object>
     <object>objects\scroll</object>
-    <object>objects\object_Score</object>
+    <object>objects\object_Scrolls</object>
     <object>objects\object_wall2</object>
     <object>objects\object_piston</object>
     <object>objects\object_arrow</object>
-    <object>objects\object_gun</object>
     <object>objects\object_scorpion</object>
-    <object>objects\object_bullet</object>
+    <object>objects\object_door</object>
+    <object>objects\object_sword</object>
+    <object>objects\object_key</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_title</room>
-    <room>rooms\room3</room>
-    <room>rooms\room2</room>
+    <room>rooms\Lv_1</room>
+    <room>rooms\Lv_2</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41963.9714388194</constant>
+    <constant name="GM_build_date">41974.982831331</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
