@@ -7,22 +7,19 @@
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>6</bbox_left>
-  <bbox_right>26</bbox_right>
-  <bbox_top>6</bbox_top>
-  <bbox_bottom>25</bbox_bottom>
+  <bbox_left>48</bbox_left>
+  <bbox_right>301</bbox_right>
+  <bbox_top>96</bbox_top>
+  <bbox_bottom>195</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
-  <width>32</width>
-  <height>32</height>
+  <width>348</width>
+  <height>348</height>
   <frames>
-    <frame index="0">images\sprite_mummy_up_0.png</frame>
-    <frame index="1">images\sprite_mummy_up_1.png</frame>
-    <frame index="2">images\sprite_mummy_up_2.png</frame>
-    <frame index="3">images\sprite_mummy_up_3.png</frame>
+    <frame index="0">images\sprite_intra_0.png</frame>
   </frames>
 </sprite>

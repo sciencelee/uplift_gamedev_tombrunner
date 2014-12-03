@@ -4,15 +4,17 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sound_mummy_sound</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprite_title</sprite>
     <sprite>sprites\sprite_Start</sprite>
     <sprite>sprites\sprite_quit</sprite>
     <sprite>sprites\sprite_mummy_up</sprite>
     <sprite>sprites\sprite_mummy_down</sprite>
-    <sprite>sprites\sprite_mummy_right</sprite>
     <sprite>sprites\sprite_mummy_left</sprite>
+    <sprite>sprites\sprite_mummy_right</sprite>
     <sprite>sprites\sprite_light</sprite>
     <sprite>sprites\sprite_Scrolls_light</sprite>
     <sprite>sprites\sprite_left</sprite>
@@ -29,6 +31,7 @@
     <sprite>sprites\sprite_arrow</sprite>
     <sprite>sprites\sprite_scorpion</sprite>
     <sprite>sprites\sprite_key</sprite>
+    <sprite>sprites\sprite_intra</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
@@ -56,6 +59,7 @@
     <object>objects\object_door</object>
     <object>objects\object_sword</object>
     <object>objects\object_key</object>
+    <object>objects\object_insta</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_title</room>
@@ -63,7 +67,7 @@
     <room>rooms\Lv_2</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41974.982831331</constant>
+    <constant name="GM_build_date">41976.9512267477</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>

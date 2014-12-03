@@ -500,6 +500,7 @@
     <instance objName="object_door" x="192" y="320" name="inst_52249DD9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_sword" x="320" y="352" name="inst_6DEDDC15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_scorpion" x="160" y="224" name="inst_0565D189" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_music" x="64" y="64" name="inst_A90C7A1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
